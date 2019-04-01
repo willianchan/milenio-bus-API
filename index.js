@@ -17,5 +17,9 @@ app.get('/milenio-bus-api/', (req, res) => res.send('Hello Milenio Bus!'))
 
 app.route('/milenio-bus-api/registro').post(controller.registro)
 
+app.route('/milenio-bus-api/transportes').get(controller.transportes)
+
+app.route('/milenio-bus-api/registros').get(controller.registros)
+
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Milenio Bus app listening on port ${port}!`))
