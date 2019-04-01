@@ -32,7 +32,7 @@ Rode os comandos abaixo para clonar o repositório e instalar dependências do N
 - Realize uma nova consulta a partir do arquivo `script.sql` para realizar a criação do banco de dados
 - Crie um novo usuário de logon no caminho **Pesquisador de Objetos** -> **Segurança** -> **Logons** -> Clique com botão direito e adicione **Novo Logon**, selecione Autenticação do SQL Server e configure o logon: **admin** e senha: **admin**
 ![logon](https://user-images.githubusercontent.com/36850947/55365126-abd42200-54b9-11e9-8467-11da5c391fe4.png)
-- Certifique-se que o SQL Server Browser está ativo e o protocolo TCP/IP está habilitado acessando o **SQL Server Configuration Manager**
+- Certifique-se que o **SQL Server Browser** está ativo e o protocolo **TCP/IP** está habilitado acessando o **SQL Server Configuration Manager**
 ![browser](https://user-images.githubusercontent.com/36850947/55365111-a080f680-54b9-11e9-82f8-998ec219d4a9.png)
 ![tcp-ip](https://user-images.githubusercontent.com/36850947/55365129-ad9de580-54b9-11e9-8932-05b998bc31a4.png)
 
