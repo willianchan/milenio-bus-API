@@ -1,5 +1,9 @@
 # API Milenio Bus
 
+Projeto desenvolvido para o processo seletivo para vaga de estágio na empresa Milênio Bus.
+
+## Descrição
+
 API responsável pelo processamento de dados de embarcados e fornecimento de dados para frontend
 
 ---
